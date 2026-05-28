@@ -48,7 +48,7 @@ com.comicapp.comic_api
 
 ## 👑 Team & Phân chia nhiệm vụ
 
-### 🧠 Leader & Backend chính (Bạn)
+### 🧠 Leader & Backend chính (Hữu Tuấn)
 
 * Thiết kế kiến trúc hệ thống
 * Xây dựng API core (Auth, Story, Chapter)
